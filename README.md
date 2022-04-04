@@ -1,5 +1,5 @@
 # Felps no r/place
-Esse é um script criado com o propósio de criar um overlay e ajudar na hora de desenhar a carinha do felps no [r/place](https://www.reddit.com/r/place/).
+Esse é um script criado com o propósio de mostrar um overlay e ajudar na hora de desenhar a carinha do felps no [r/place](https://www.reddit.com/r/place/).
 
 Quando você entrar no site verá um cubo pequeno em cima do pixel com a cor que ele deve ser pintado.
 
