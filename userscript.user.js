@@ -22,7 +22,7 @@ if (window.top !== window.self) {
           (function () {
               const img = document.createElement("img");
               img.src = "https://github.com/mitsuaky/rplace-felps/raw/main/carinha.png";
-              img.style = "position: absolute;left: 1648px;top: 1918px;image-rendering: pixelated;width: 93px;height: 60px;";
+              img.style = "position: absolute;left: 1648px;top: 1918px;image-rendering: pixelated;width: 31px;height: 20px;";
               console.log(img);
               return img;
           })())
